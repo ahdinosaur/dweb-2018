@@ -15,12 +15,12 @@ dinosaur.is/dweb-2018
 ---
 class: center
 
-# a walk through the Scuttlebutt ecosystem
+# a tour of the Scuttlebutt ecosystem
 
 ![large grass](./garden/large-grass.gif)
 ![lavender](./garden/lavender.gif)
 ![medium grass](./garden/medium-grass.gif)
-![hermies gift](./garden/hermies-watering.gif)
+![hermies watering](./garden/hermies-watering.gif)
 ![medium grass](./garden/medium-grass.gif)
 ![lavender](./garden/lavender.gif)
 ![large grass](./garden/large-grass.gif)
@@ -34,53 +34,60 @@ class: center
 ![large grass](./garden/large-grass.gif)
 ![dandelion gold](./garden/dandelion-gold.gif)
 ![small grass](./garden/small-grass.gif)
-
 
 ???
 
 ---
 class: center
 
-## hey [Decentralized Web Summit](https://decentralizedweb.net/)!
+## hey [Decent Web Summit](https://decentralizedweb.net/)!
 
 i'm [Mikey](http://dinosaur.is), also known as @dinosaur
 
 ![rich bio](./screenshots/rich-bio.png)
+
+???
 
 ([%+/B9AqweMoDZeF9rxlSwmHyTNy96N82OSIDdmchrN0M=.sha256](http://ssb.mikey.nz:8807/%25%2B%2FB9AqweMoDZeF9rxlSwmHyTNy96N82OSIDdmchrN0M%3D.sha256))
 
 ---
 class: center, no-margin
 
-# get ready for a fire hose
+# get ready for a quick fire hose
 
-![hermies fire hose](./garden/hermies-fire-hose.gif)
+![hermies fire hose](./garden/hermies-firehose.gif)
 
 ---
 class: center, no-margin
 
 [![Scuttlebutt principles stack](./scuttlebutt-principles-stack.jpg)](https://www.scuttlebutt.nz/principles/)
 
-([%b1pH4LZQ4hp2acS036eSBeKJbsSgDAkpovN2JRhv8fI=.sha256](https://viewer.scuttlebot.io/%25b1pH4LZQ4hp2acS036eSBeKJbsSgDAkpovN2JRhv8fI%3D.sha256)
-
 ???
 
-across everything you'll see, here's what's  held in common
+([%b1pH4LZQ4hp2acS036eSBeKJbsSgDAkpovN2JRhv8fI=.sha256](https://viewer.scuttlebot.io/%25b1pH4LZQ4hp2acS036eSBeKJbsSgDAkpovN2JRhv8fI%3D.sha256)
+
+across everything you'll see, here's what's held in common
 
 - one identity, many interfaces
 
 ---
 class: center, title
 
-# app: Patchwork
+# app: [Patchwork](https://github.com/ssbc/patchwork)
 
-GitHub: https://github.com/ssbc/patchwork
-
-git-ssb: ssb://%bfG9dyXtlic9umNzgwYuG8nhjG0ycUrlBROprvyBZaU=.sha256
+![medium grass](./garden/medium-grass.gif)
+![lavender](./garden/lavender.gif)
+![large grass](./garden/large-grass.gif)
+![hermies gift](./garden/hermies-gift.gif)
+![large grass](./garden/large-grass.gif)
+![lavender](./garden/lavender.gif)
+![medium grass](./garden/medium-grass.gif)
 
 ???
 
 our "flagship" app
+
+git-ssb: ssb://%bfG9dyXtlic9umNzgwYuG8nhjG0ycUrlBROprvyBZaU=.sha256
 
 ---
 class: center, no-margin
@@ -133,7 +140,7 @@ class: center, no-margin
 
 ### app: Patchwork
 
-![patchwork polls](./screenshots/patchwork-polls.png)
+![patchwork poll](./screenshots/patchwork-poll.png)
 
 ???
 
@@ -142,7 +149,7 @@ class: center, no-margin
 
 ### app: Patchwork
 
-![patchwork polls](./screenshots/patchwork-tags.png)
+![patchwork tags](./screenshots/patchwork-tags.png)
 
 ???
 
@@ -174,9 +181,9 @@ class: center, no-margin
 
 ![patchwork myco](./screenshots/patchwork-myco.png)
 
-([%j5oHgt9J6HyeY3KounJtVeju6m49PhkNL011efZPx68=.sha256](https://viewer.scuttlebot.io/%25j5oHgt9J6HyeY3KounJtVeju6m49PhkNL011efZPx68%3D.sha256))
-
 ???
+
+([%j5oHgt9J6HyeY3KounJtVeju6m49PhkNL011efZPx68=.sha256](https://viewer.scuttlebot.io/%25j5oHgt9J6HyeY3KounJtVeju6m49PhkNL011efZPx68%3D.sha256))
 
 the latest in growable biomaterials
 
@@ -198,9 +205,9 @@ class: center, no-margin
 
 ![patchwork butt summaries](./screenshots/patchwork-butt-summaries.png)
 
-([%AAmcEmYZWRSL/BxV2UjxQ2JCywI0LpNrFFOOhvXvKNE=.sha256](https://viewer.scuttlebot.io/%25AAmcEmYZWRSL%2FBxV2UjxQ2JCywI0LpNrFFOOhvXvKNE%3D.sha256))
-
 ???
+
+([%AAmcEmYZWRSL/BxV2UjxQ2JCywI0LpNrFFOOhvXvKNE=.sha256](https://viewer.scuttlebot.io/%25AAmcEmYZWRSL%2FBxV2UjxQ2JCywI0LpNrFFOOhvXvKNE%3D.sha256))
 
 a weekly digest about the latest happenings on the butts
 
@@ -249,15 +256,32 @@ class: center, no-margin
 ---
 class: center, title
 
-# app: Patchbay
+# app: [Patchbay](https://github.com/ssbc/patchbay)
 
-GitHub: https://github.com/ssbc/patchbay
+![small grass](./garden/small-grass.gif)
+![dandelion gold](./garden/dandelion-gold.gif)
+![large grass](./garden/large-grass.gif)
+![dandelion puff](./garden/dandelion-puff.gif)
+![large grass](./garden/large-grass.gif)
+![dandelion gold](./garden/dandelion-gold.gif)
+![small grass](./garden/small-grass.gif)
 
-git-ssb: ssb://%s9mSFATE4RGyJx9wgH22lBrvD4CgUQW4yeguSWWjtqc=.sha256
+![hermies gift](./garden/hermies-gift.gif)
+
+![small grass](./garden/small-grass.gif)
+![dandelion puff](./garden/dandelion-puff.gif)
+![large grass](./garden/large-grass.gif)
+![dandelion gold](./garden/dandelion-gold.gif)
+![large grass](./garden/large-grass.gif)
+![dandelion puff](./garden/dandelion-puff.gif)
+![small grass](./garden/small-grass.gif)
+
 
 ???
 
 moving to the next ship sailing in our archeapalego: Patchbay
+
+git-ssb: ssb://%s9mSFATE4RGyJx9wgH22lBrvD4CgUQW4yeguSWWjtqc=.sha256
 
 ---
 class: center, no-margin
@@ -327,7 +351,21 @@ class: center, no-margin
 ---
 class: center, title
 
-# app: [mmmmmm](https://gitlab.com/staltz/mmmmm-mobile)
+# app: [mmmmm](https://gitlab.com/staltz/mmmmm-mobile)
+
+![large grass](./garden/large-grass.gif)
+![dandelion gold](./garden/dandelion-gold.gif)
+![medium grass](./garden/medium-grass.gif)
+![lavender](./garden/lavender.gif)
+![large grass](./garden/large-grass.gif)
+
+![hermies gift](./garden/hermies-gift.gif)
+
+![large grass](./garden/large-grass.gif)
+![lavender](./garden/lavender.gif)
+![medium grass](./garden/medium-grass.gif)
+![dandelion gold](./garden/dandelion-gold.gif)
+![large grass](./garden/large-grass.gif)
 
 ???
 
@@ -336,23 +374,34 @@ GitHub: https://github.com/staltz/mmmmm-mobile
 ---
 class: center, no-margin
 
-### app: mmmmmm
+### app: mmmmm
 
-![mmmmmm posts](./screenshots/mmmmm-posts.png)
-
----
-class: center, no-margin
-
-### app: mmmmmm
-
-![mmmmmm network](./screenshots/mmmmm-network.png)
+![mmmmm posts](./screenshots/mmmmm-posts.png)
 
 ---
 class: center, no-margin
 
-### app: mmmmmm
+### app: mmmmm
 
-![mmmmmm raw](./screenshots/mmmmm-raw.png)
+![mmmmm network](./screenshots/mmmmm-network.png)
+
+---
+class: center, no-margin
+
+### app: mmmmm
+
+![mmmmm raw](./screenshots/mmmmm-raw.png)
+
+---
+class: center, no-margin
+
+# app: [patchfoo](https://github.com/ssbc/patchfoo)
+
+![patchfoo](./screenshots/patchfoo.png)
+
+???
+
+@cel is giving a lightning talk about this!
 
 ---
 class: center, title
@@ -361,7 +410,7 @@ class: center, title
 
 GitHub: https://github.com/ssbc/scuttle-shell
 
-![scuttle-shell](./screenshots/scuttle-shell.png)
+![scuttleshell](./screenshots/scuttleshell.png)
 
 ???
 
@@ -372,7 +421,11 @@ class: center, no-margin
 
 ## app: [patchfox](https://github.com/soapdog/patchfox)
 
-TODO
+![patchfox](./screenshots/patchfox.png)
+
+???
+
+@soapdog is giving a lightning talk about this!
 
 ---
 class: center, no-margin
@@ -393,10 +446,11 @@ class: center, no-margin
 blogging app
 
 ---
+class: center, no-margin
 
 ## app: [tale:net](https://t4l3.net/)
 
-![tale:net](./screenshots/talenet.png)
+![tale:net](./screenshots/talenet-skilliverse.png)
 
 ???
 
@@ -456,18 +510,21 @@ git-ssb-web: http://git-ssb.celehner.com/%25NPNNvcnTMZUFZSWl%2F2Z4XX%2BYSdqsqOhy
 git-ssb: ssb://%NPNNvcnTMZUFZSWl/2Z4XX+YSdqsqOhyPacp+lgpQUw=.sha256
 
 ---
+class: center
 
 ## lib: [rust](https://github.com/ssbc/ssb-client-rs)
 
 ???
 
 ---
+class: center
 
 ## lib: [go](TODO)
 
 ???
 
 ---
+class: center
 
 ## lib: [c](http://git-ssb.celehner.com/%254w0BO1KXW%2B6zBSJlQx1YViQeknl16anzhesmwKGRh2g%3D.sha256)
 
@@ -493,6 +550,8 @@ class: center, no-margin
 
 ![gephi vtduncan](./screenshots/gephi-vduncan-0.png)
 
+???
+
 ([%utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE=.sha256](https://viewer.scuttlebot.io/%25utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE%3D.sha256))
 
 ---
@@ -501,6 +560,8 @@ class: center, no-margin
 ## stats: gephi w/ @vtduncant
 
 ![.gephi vtduncan](/screenshots/gephi-vduncan-1.png)
+
+???
 
 ([%utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE=.sha256](https://viewer.scuttlebot.io/%25utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE%3D.sha256))
 
@@ -511,6 +572,8 @@ class: center, no-margin
 
 ![gephi vtduncan](./screenshots/gephi-vduncan-2.png)
 
+???
+
 ([%utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE=.sha256](https://viewer.scuttlebot.io/%25utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE%3D.sha256))
 
 ---
@@ -519,6 +582,8 @@ class: center, no-margin
 ## stats: gephi w/ @andrestaltz
 
 ![gephi andre](./screenshots/gephi-andre-0.png)
+
+???
 
 ([%exTkaDhz4lhTWXmPV5Ln6/KZ7edLY/OE8A01a6XF2ns=.sha256](https://viewer.scuttlebot.io/%25exTkaDhz4lhTWXmPV5Ln6%2FKZ7edLY%2FOE8A01a6XF2ns%3D.sha256))
 
@@ -574,7 +639,7 @@ class: center, no-margin
 ---
 class: center, no-margin
 
-## guide: [An Introduction to Scuttlebutt Development: Your Test Playground](https://josiahwitt.com/2018/07/08/scuttlebutt-intro-test-playground.html)
+## guide: [Your Test Playground](https://josiahwitt.com/2018/07/08/scuttlebutt-intro-test-playground.html)
 
 ![intro to ssb guide](./screenshots/guide-intro-to-ssb.png)
 
@@ -583,8 +648,9 @@ class: center, no-margin
 dat://wittjosiah.hashbase.io/2018/07/08/scuttlebutt-intro-test-playground.html
 
 ---
+class: center, no-margin
 
-## guide: [An Introduction to Scuttlebutt Development: Flume & Plugins](https://josiahwitt.com/2018/07/08/scuttlebutt-intro-flume.html)
+## guide: [Flume & Plugins](https://josiahwitt.com/2018/07/08/scuttlebutt-intro-flume.html)
 
 ![intro to flume guide](./screenshots/guide-intro-to-flume.png)
 
@@ -593,28 +659,20 @@ dat://wittjosiah.hashbase.io/2018/07/08/scuttlebutt-intro-test-playground.html
 dat://wittjosiah.hashbase.io/2018/07/08/scuttlebutt-intro-flume.html
 
 ---
+class: center, no-margin
 
 # thanks
 
+![large grass](./garden/large-grass.gif)
+![lavender](./garden/lavender.gif)
+![medium grass](./garden/medium-grass.gif)
 ![hermies dancing](./garden/large-hermies-dancing.gif)
+![medium grass](./garden/medium-grass.gif)
+![lavender](./garden/lavender.gif)
+![large grass](./garden/large-grass.gif)
 
-![small hermies love](./garden/hermies-love.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies dancing](./garden/small-hermies-dancing.gif)
-![small grass](./garden/small-grass.gif)
-![small hermies love](./garden/hermies-love.gif)
+to join Scuttlebutt, say hi!
 
+or go to [scuttlebutt.nz](https://www.scuttlebutt.nz)
+
+=^.^=
