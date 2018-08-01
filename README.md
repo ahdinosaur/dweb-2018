@@ -444,9 +444,7 @@ class: center, no-margin
 ---
 class: center, title
 
-# app: scuttle-shell
-
-GitHub: https://github.com/ssbc/scuttle-shell
+# app: [scuttle-shell](https://github.com/ssbc/scuttle-shell)
 
 ![scuttleshell](./screenshots/scuttleshell.png)
 
