@@ -50,12 +50,18 @@ i'm [Mikey](http://dinosaur.is), also known as @dinosaur
 
 ([%+/B9AqweMoDZeF9rxlSwmHyTNy96N82OSIDdmchrN0M=.sha256](http://ssb.mikey.nz:8807/%25%2B%2FB9AqweMoDZeF9rxlSwmHyTNy96N82OSIDdmchrN0M%3D.sha256))
 
+i'm a Scuttlebutt librarian & archaeologist
+
 ---
 class: center, no-margin
 
 # get ready for a quick fire hose
 
 ![hermies fire hose](./garden/hermies-firehose.gif)
+
+???
+
+keen to let you taste a variety
 
 ---
 class: center, no-margin
@@ -68,7 +74,7 @@ class: center, no-margin
 
 across everything you'll see, here's what's held in common
 
-- one identity, many interfaces
+one identity, many subjective interfaces
 
 ---
 class: center, title
@@ -100,6 +106,8 @@ class: center, no-margin
 
 ([%YZZ4ZL2xDogZ266PBmgK3AMkX6te+ZrKgkdqN8J4tcM=.sha256](https://viewer.scuttlebot.io/%25YZZ4ZL2xDogZ266PBmgK3AMkX6te%2BZrKgkdqN8J4tcM%3D.sha256))
 
+Patchwork is a standard social network
+
 Joey goes camping!
 
 ---
@@ -111,7 +119,7 @@ class: center, no-margin
 
 ???
 
-a standard social network, here's my profile
+here's my profile
 
 ---
 class: center, no-margin
@@ -144,6 +152,8 @@ class: center, no-margin
 
 ???
 
+supports polls
+
 ---
 class: center, no-margin
 
@@ -152,6 +162,8 @@ class: center, no-margin
 ![patchwork tags](./screenshots/patchwork-tags.png)
 
 ???
+
+supports tagging
 
 ---
 class: center, no-margin
@@ -166,9 +178,7 @@ class: center, no-margin
 
 sure okay, we implemented a decent(ralized) Facebook / Twitter, whatever
 
-what's most interesting about Scuttlebutt is not our technical features
-
-what's most interesting about Scuttlebutt is our decently active community and grassroots culture
+what's most interesting about Scuttlebutt is our decent community
 
 if Conway's law is true: "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
 
@@ -244,6 +254,10 @@ class: center, no-margin
 
 ???
 
+Scuttlebutt received a 200k USD grant
+
+so far have funded over 30 projects
+
 ---
 class: center, no-margin
 
@@ -252,6 +266,8 @@ class: center, no-margin
 ![patchwork community gardening](./screenshots/patchwork-community-gardening.png)
 
 ???
+
+community gardening
 
 ---
 class: center, title
@@ -279,7 +295,7 @@ class: center, title
 
 ???
 
-moving to the next ship sailing in our archeapalego: Patchbay
+the next ship sailing in our archeapalego: Patchbay
 
 git-ssb: ssb://%s9mSFATE4RGyJx9wgH22lBrvD4CgUQW4yeguSWWjtqc=.sha256
 
@@ -312,6 +328,8 @@ class: center, no-margin
 
 ???
 
+polls
+
 ---
 class: center, no-margin
 
@@ -320,6 +338,8 @@ class: center, no-margin
 ![patchbay chess](./screenshots/patchbay-chess.png)
 
 ???
+
+chess
 
 ---
 class: center, no-margin
@@ -330,6 +350,8 @@ class: center, no-margin
 
 ???
 
+book reviews
+
 ---
 class: center, no-margin
 
@@ -339,6 +361,8 @@ class: center, no-margin
 
 ???
 
+image search
+
 ---
 class: center, no-margin
 
@@ -347,6 +371,8 @@ class: center, no-margin
 ![patchbay query](./screenshots/patchbay-query.png)
 
 ???
+
+playground for database queries
 
 ---
 class: center, title
@@ -378,6 +404,10 @@ class: center, no-margin
 
 ![mmmmm posts](./screenshots/mmmmm-posts.png)
 
+???
+
+posts
+
 ---
 class: center, no-margin
 
@@ -385,12 +415,20 @@ class: center, no-margin
 
 ![mmmmm network](./screenshots/mmmmm-network.png)
 
+???
+
+network
+
 ---
 class: center, no-margin
 
 ### app: mmmmm
 
 ![mmmmm raw](./screenshots/mmmmm-raw.png)
+
+???
+
+raw view
 
 ---
 class: center, no-margin
@@ -433,6 +471,10 @@ class: center, no-margin
 ## app: [patchless](https://github.com/patchless/patchless)
 
 ![patchless](./screenshots/patchless.png)
+
+???
+
+minimal app
 
 ---
 class: center, no-margin
@@ -554,6 +596,8 @@ class: center, no-margin
 
 ([%utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE=.sha256](https://viewer.scuttlebot.io/%25utUlBefFYqHWcFQaz4r5bZUil9YtYyTik1j6d7ymVyE%3D.sha256))
 
+graphing our social networks
+
 ---
 class: center, no-margin
 
@@ -601,6 +645,10 @@ class: center, no-margin
 
 ![protocol guide](./screenshots/guide-protocol-0.png)
 
+???
+
+a rad guide to learn about the core protocol
+
 ---
 class: center, no-margin
 
@@ -629,12 +677,20 @@ class: center, no-margin
 
 ![the future will be technical](./screenshots/the-future-will-be-technical.png)
 
+???
+
+a zine about our solarpunk future
+
 ---
 class: center, no-margin
 
 ## guide: [A Praise Chorus](dat://2295a89c2cdfb57ed91b135608627119199d5d834fbaede70a8713b2cedf6fe1/)
 
 ![a praise chorus](./screenshots/a-praise-chorus.png)
+
+???
+
+a zine to describe our decent world
 
 ---
 class: center, no-margin
@@ -644,6 +700,8 @@ class: center, no-margin
 ![intro to ssb guide](./screenshots/guide-intro-to-ssb.png)
 
 ???
+
+a gentle introduction to Scuttlebutt
 
 dat://wittjosiah.hashbase.io/2018/07/08/scuttlebutt-intro-test-playground.html
 
@@ -655,6 +713,8 @@ class: center, no-margin
 ![intro to flume guide](./screenshots/guide-intro-to-flume.png)
 
 ???
+
+diving into the Scuttlebutt database and plugin system
 
 dat://wittjosiah.hashbase.io/2018/07/08/scuttlebutt-intro-flume.html
 
@@ -676,3 +736,11 @@ to join Scuttlebutt, say hi!
 or go to [scuttlebutt.nz](https://www.scuttlebutt.nz)
 
 =^.^=
+
+???
+
+thanks for your attention
+
+i barely even scratched the surface
+
+if you want to learn more, then get amongst!
