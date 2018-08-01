@@ -5,7 +5,7 @@ layout: true
 <img src="./garden/small-grass.gif" />
 <img src="./garden/small-hermies-dancing.gif" />
 <img src="./garden/large-grass.gif" />
-dinosaur.is/dweb-2018
+dinosaur.is/dweb-2018/
 <img src="./garden/large-grass.gif" />
 <img src="./garden/small-hermies-dancing.gif" />
 <img src="./garden/small-grass.gif" />
